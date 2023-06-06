@@ -2,7 +2,7 @@
 - 🐱 I love cats
 - 😐 I'm 14 years of age
 - 👀 I’m interested in Python, Game Development, C/C++, and Godot
-- 🌱 I’m currently learning Python, and Game Development in Godot
+- 🌱 I’m currently learning Python, C++, and Game Development in Godot
 - 💞️ I’m looking to collaborate on Python Projects, and games
 - 📫 How to reach me via Discord (BlurrySquire#4096)
 
