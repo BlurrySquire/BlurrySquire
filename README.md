@@ -16,7 +16,7 @@
 
 - My favourite animals are 🐱 Cats, and Squirrels.
 
-![My Discord](https://dcbadge.vercel.app/api/shield/836990182796296262)
+![My Discord](https://dcbadge.vercel.app/api/shield/836990182796296262?theme=clean-inverted)
 
 [![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=blurrysquire&show=prs_merged&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
