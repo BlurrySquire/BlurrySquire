@@ -1,10 +1,24 @@
-- 👋 Hi, I’m Riley Hawksworth (A.K.A BlurrySquire)
-- 🐱 I love cats
-- 😐 I'm 15 years of age
-- 👀 I’m interested in Python, Game Development, C/C++, and Godot
-- 🌱 I’m currently learning C++ and SDL2 for game development.
-- 💞️ I’m looking to collaborate on Python Projects, and games
-- 📫 How to reach me via Discord (RustyGrape238 or rusty_grape_238)
+<h1 align=center>Riley Hawksworth (BlurrySquire)</h1>
+
+- :wave: I'm a 15 year old self-taught programmer.
+
+- :eyes: I’m interested in:
+  - C/C++ and Python.
+  - Emulator development.
+  - Game engine development.
+  - Game development in [GDevelop 5](https://gdevelop.io/).
+
+- 🌱 I’m currently learning:
+  - Emulator development.
+  - Game engine development.
+  - Game development in [GDevelop 5](https://gdevelop.io/).
+  - Pixel-art in [Aseprite](https://www.aseprite.org/).
+
+- My favourite animals are 🐱 Cats, and Squirrels.
+
+![My Discord](https://dcbadge.vercel.app/api/shield/836990182796296262)
+
+[![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=blurrysquire&show=prs_merged&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 BlurrySquire/BlurrySquire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
