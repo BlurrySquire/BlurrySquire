@@ -1,9 +1,9 @@
 <h1 align=center>Riley Hawksworth (BlurrySquire)</h1>
 
 - :wave: I'm a self-taught programmer.
+- Maintainer of [Lime3DS](https://github.com/Lime3DS).
 
 - :eyes: I’m interested in:
-  - C/C++ and Python.
   - Emulator development.
   - Game engine development.
   - Game development in [GDevelop 5](https://gdevelop.io/) & [Godot](https://godotengine.org/).
