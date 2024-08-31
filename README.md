@@ -1,4 +1,4 @@
-<h1 align=center>Riley Hawksworth (BlurrySquire)</h1>
+<h1 align=center>BlurrySquire</h1>
 
 - :wave: I'm a self-taught programmer.
 
