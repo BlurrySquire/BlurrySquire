@@ -1,7 +1,6 @@
 <h1 align=center>Riley Hawksworth (BlurrySquire)</h1>
 
 - :wave: I'm a self-taught programmer.
-- A maintainer of [Lime3DS](https://github.com/Lime3DS).
 
 - :eyes: I’m interested in:
   - Emulator development.
