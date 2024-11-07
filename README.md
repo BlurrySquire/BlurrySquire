@@ -1,6 +1,6 @@
 <h1 align=center>BlurrySquire</h1>
 
-- :wave: I'm a self-taught programmer.
+- :wave: My name's Riley and I code stuff.
 
 - :eyes: I’m interested in:
   - Emulator development.
