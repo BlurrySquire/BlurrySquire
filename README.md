@@ -1,6 +1,6 @@
 <h1 align=center>BlurrySquire</h1>
 
-My name's Riley and I code stuff.
+I code stuff.
 
 <!---
 BlurrySquire/BlurrySquire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
